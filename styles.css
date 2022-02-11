@@ -1,0 +1,242 @@
+body,
+html{
+    background: #fff;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+#title{
+    font-size: 6em;
+    font-family: 'Vollkorn', serif;
+    margin: 0;
+    letter-spacing: 10px;
+    margin-top: 5px;
+    text-shadow: 3px 0 #afdaeb;
+    
+}
+
+.cover{
+    background-image: url(./pictures/Animal_all.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    height: 600px;
+}
+
+footer{
+    text-align: center;
+    color: #38393a;
+    font-size: 14px;
+    font-family: 'Vollkorn', serif;
+    padding: 20px 0;
+
+}
+.button{
+    width: 220px;
+    height: 190px;
+    text-align: center top;
+    margin: 2% 2%;
+    border-radius: 10px;
+    border: 6px solid rgb(119, 117, 117);
+    font-size: 0;
+}
+
+.pressed-button{
+    box-shadow: 0 4px px 0 #dbedf3;
+    opacity: 0.6;
+}
+
+.a {
+    background-image: url(pictures/aligator.jpg);
+    background-size: cover;   
+}
+.b{
+    background-image: url(pictures/antilopa-skakava.jpg);
+    background-size: cover;
+}
+.c{
+    background-image: url(pictures/bizon.png);
+    background-size:cover;
+}
+.d{
+    background-image: url(pictures/chrestys.jpg);
+    background-size: cover;
+}
+.e{
+    background-image: url(pictures/dinosaurus.jpg);
+    background-size: cover;
+}
+.f{
+    background-image: url(pictures/fretka.jpg);
+    background-size: cover;
+}
+.g{
+    background-image: url(pictures/holub.jpg);
+    background-size: cover;
+}
+.h{
+    background-image: url(pictures/jesterka.jpeg);
+    background-size: cover;
+}
+.i{
+    background-image: url(pictures/jestrab.jpg);
+    background-size: cover;
+}
+.j{
+    background-image: url(pictures/jezek.jpg);
+    background-size: cover;
+}
+.k{
+    background-image: url(pictures/kachna.jpg);
+    background-size: cover;
+}
+.l{
+    background-image: url(pictures/kocka.jpg);
+    background-size: cover;
+}
+.m{
+    background-image: url(pictures/kohout.jpg);
+    background-size: cover;
+}
+.n{
+    background-image: url(pictures/kralik.png);
+    background-size: cover;
+}
+.o{
+    background-image: url(pictures/krava.jpg);
+    background-size: cover;
+}
+.p{
+    background-image: url(pictures/krocan.jpeg);
+    background-size: cover;
+}
+.q{
+    background-image: url(pictures/krysa.jpg);
+    background-size: cover;
+}
+.r{
+    background-image: url(pictures/kun.jpg);
+    background-size: cover;
+}
+.s{
+    background-image: url(pictures/labut.jpg);
+    background-size: cover;
+}
+.t{
+    background-image: url(pictures/lama-alpaka.jpg);
+    background-size: cover;
+}
+.u{
+    background-image: url(pictures/lev.jpg);
+    background-size: cover;
+}
+.v{
+    background-image: url(pictures/liska.jpg);
+    background-size: cover;
+}
+.w{
+    background-image: url(pictures/delfin-skakavy.jpg);
+    background-size: cover;
+}
+.x{
+    background-image: url(pictures/morce.jpg);
+    background-size: cover;
+}
+.y{
+    background-image: url(pictures/motyl.jpg);
+    background-size: cover;
+}
+.z{
+    background-image: url(pictures/opice.jpeg);
+    background-size: cover;
+}
+.aa{
+    background-image: url(pictures/ovce.jpg);
+    background-size: cover;
+}
+.bb{
+    background-image: url(pictures/prase.jpg);
+    background-size: cover;
+}
+.cc{
+    background-image: url(pictures/slepice.jpg);
+    background-size: cover;
+}
+.dd{
+    background-image: url(pictures/slon.jpg);
+    background-size: cover;
+}
+.ee{
+    background-image: url(pictures/sova.jpg);
+    background-size: cover;
+}
+.ff{
+    background-image: url(pictures/tygr.jpeg);
+    background-size: cover;
+}
+.gg{
+    background-image: url(pictures/velryba.jpg);
+    background-size: cover;
+}
+.hh{
+    background-image: url(pictures/vrana.jpg);
+    background-size: cover;
+}
+.ii{
+    background-image: url(pictures/vydra.jpg);
+    background-size: cover;
+}
+.jj{
+    background-image: url(pictures/zaba.jpg);
+    background-size: cover;
+}
+.kk{
+    background-image: url(pictures/hroch.jpg);
+    background-size: cover;
+}
+.ll{
+    background-image: url(pictures/hyena.jpeg);
+    background-size: cover;
+}
+.mm{
+    background-image: url(pictures/leopard.jpg);
+    background-size: cover;
+}
+.nn{
+    background-image: url(pictures/panda.jpg);
+    background-size: cover;
+}
+.oo{
+    background-image: url(pictures/papousek-sedy.jpg);
+    background-size: cover;
+}
+.pp{
+    background-image: url(pictures/pes.jpg);
+    background-size: cover;
+}
+.qq{
+    background-image: url(pictures/tucnak.jpg);
+    background-size: cover;
+}
+.rr{
+    background-image: url(pictures/varan.jpg);
+    background-size: cover;
+}
+.ss{
+    background-image: url(pictures/vlk.jpg);
+    background-size: cover;
+}
+.tt{
+    background-image: url(pictures/zebra.jpeg);
+    background-size: cover;
+}
+.uu{
+    background-image: url(pictures/zirafa.jpg);
+    background-size: cover;
+}
+.vv{
+    background-image: url(pictures/zralok.jpg);
+    background-size: cover;
+}
+
